@@ -1,4 +1,4 @@
-# Gerenciamento-de-invent-rio
+# Gerenciamento de inventário
 
 Sistema de Gerenciamento de Inventário (Python)
 Sistema de mercado focado em lógica de Back-end, priorizando a eficiência das engrenagens internas do software.
